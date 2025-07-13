@@ -1,5 +1,3 @@
-# sum_1_to_50.py
-
 def sum_1_to_50():
     total = 0
     for i in range(1, 51):

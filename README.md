@@ -1,5 +1,3 @@
-# python_control_structures
-
 # Assignment 2: Module 3 - Control Structures in Python
 
 ![Task 1 Output](assets/1.png)
